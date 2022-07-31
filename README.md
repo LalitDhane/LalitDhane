@@ -1,3 +1,5 @@
+![Background Photo](https://media-exp1.licdn.com/dms/image/C4D16AQHj1AWyvLV4Xg/profile-displaybackgroundimage-shrink_350_1400/0/1658978335779?e=1665014400&v=beta&t=CY3-8GDJaV9qc9DCR2mpcK8AbO91zD7l1Rn-rwkvyQ8)
+
 <h1 align="center">Hi 👋, I'm Lalit Dhane</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
@@ -10,7 +12,6 @@
 
 - 📫 How to reach me **lalitdhane4455@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VIM7sdXCzRbbVCthizKHiUuEp90IRkM0/view?usp=sharing](https://drive.google.com/file/d/1VIM7sdXCzRbbVCthizKHiUuEp90IRkM0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
