@@ -28,18 +28,17 @@
 </p>
 <h3 align="left">Backend : </h3>
 <p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />&nbsp;</a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="36" height="36"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="36" height="36"/>&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/> </a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./nodejs-original.svg" width="36" height="36" alt="NodeJS" />&nbsp;</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./express-original.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="./java-original.svg" alt="java" width="36" height="36"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="./spring-original.svg" alt="spring" width="36" height="36"/>&nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./mysql-original.svg" alt="mysql" width="36" height="36"/></a>
 </p>
 <h3 align="left">Tools : </h3>
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./git-plain-wordmark.svg" alt="git" width="36" height="36"/></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="./heroku-original.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="./npm-original-wordmark.svg" alt="npm" width="36" height="36"/></a>
 </p>
 
 
