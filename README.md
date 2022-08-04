@@ -4,6 +4,7 @@
 ![techstack](https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png)
 
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<p align="left">Hi, my name is Lalit and I'm a full stack web developer. I'm passionate about contributing to open source projects and collaborating with other developers. I have a strong background in Angular, Node.js, and Express. I'm also proficient in HTML, CSS, and JavaScript. I love working on web applications and I'm always looking for new challenges. If you're looking for a web developer who is creative, proactive, and always willing to learn new things, then I'm the person you're looking for.</p>
 
 * 🔭 I’m currently working on [Homemade_Bags](https://github.com/LalitDhane/HomemadeBags_Backend)
 
