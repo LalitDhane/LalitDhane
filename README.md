@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Lalit Dhane</h1>
 
 <a href = "https://linkfree.eddiehub.io/lalitdhane" ><img src = "https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png"/></a>
-
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<p align="left">I'm passionate about contributing to open source projects and collaborating with other developers.I'm always looking for new challenges. If you're looking for a web developer who is creative, proactive, and always willing to learn new things, then I'm the person you're looking for.</p>
+<br /><br />
+<p align="left">I'm passionate about contributing to open source projects and collaborating with other developers 👨‍💻.I'm always looking for new challenges. If you're looking for a web developer who is creative, proactive, and always willing to learn new things, then I'm the person you're looking for 😊</p>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
