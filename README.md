@@ -37,6 +37,21 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 </p>
 
+### :zap: GitHub Stats
+
+<p>
+
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api?username=lalitdhane&count_private=true&show_icons=true&border_radius=5&hide_border=true&theme=slateorange&custom_title= Lalit's GitHub Stats" />
+
+  <img width="32.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitdhane&count_private=true&hide_border=true&show_icons=true&theme=slateorange" alt="The only streaks that matter"/>
+
+ <img width="32.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitdhane&layout=compact&hide_border=true&langs_count=6&hide=html,css&theme=slateorange&text_color=FFFFFF&hide_title=true">
+
+</p>
+
+<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=lalitdhane&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
+
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/lalitdhane"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
