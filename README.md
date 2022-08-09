@@ -37,8 +37,9 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
 </p>
 
-### :zap: GitHub Stats
-
+ <details>
+ <summary><b>:zap: GitHub Stats</b></summary>
+<br/>
 <p>
 
   <img width="32.5%" src="https://github-readme-stats.vercel.app/api?username=lalitdhane&count_private=true&show_icons=true&border_radius=5&hide_border=true&theme=slateorange&custom_title= Lalit's GitHub Stats" />
@@ -49,7 +50,9 @@
 
 </p>
 
+
 <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=lalitdhane&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
+</details>
 
 
 ### Support Me
