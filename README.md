@@ -42,7 +42,7 @@
 <br/>
 <p>
 
-  <img width="32.5%" src="https://github-readme-stats.vercel.app/api?username=lalitdhane&count_private=true&show_icons=true&border_radius=5&hide_border=true&theme=slateorange&custom_title= Lalit's GitHub Stats"/>
+  <img width="32.5%" src="https://github-readme-stats.vercel.app/api?username=lalitdhane&theme=codeSTACKr&show_icons=true"/>
 
   <img width="32.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitdhane&count_private=true&hide_border=true&show_icons=true&theme=slateorange" alt="The only streaks that matter"/>
 
