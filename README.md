@@ -50,8 +50,6 @@
 
 </p>
 
-
-<img width="99%" src="https://activity-graph.herokuapp.com/graph?username=lalitdhane&bg_color=37383F&color=FFFFFF&line=FFFFFF&point=F8A427&hide_border=true&area=true&count_private=true"/>
 </details>
 
 
